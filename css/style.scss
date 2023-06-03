@@ -1,0 +1,17 @@
+.wrapper {
+  padding-inline: 100px;
+}
+.my-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 60%;
+  height: auto;
+  transform: translate(-50%, -50%);
+  background-color: #fafafa;
+  background-color: #dddddd;
+  box-shadow: 0 0 0 50vmax rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  color: black;
+  z-index: 3;
+}
